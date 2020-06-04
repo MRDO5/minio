@@ -1,0 +1,9 @@
+---
+
+MINIO_ACCESS_KEY: admin
+MINIO_SECRET_KEY: 7TAZFKeuCyt7fXv
+
+minio1-server: 192.168.88.60
+minio2-server: 192.168.88.63
+
+...
